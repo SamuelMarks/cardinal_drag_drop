@@ -1,0 +1,9 @@
+/* CSS for CardinalDragDropXBlock */
+
+.cardinal_drag_drop_block .count {
+    font-weight: bold;
+}
+
+.cardinal_drag_drop_block p {
+    cursor: pointer;
+}
